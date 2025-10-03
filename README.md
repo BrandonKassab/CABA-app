@@ -34,3 +34,42 @@ An iOS application built in SwiftUI for managing **CABA (Central Amateur Basketb
 ---
 
 ## 📂 Project Structure
+CABA APP/
+├── Features/
+│ ├── Auth/
+│ ├── Home/
+│ ├── Media/
+│ ├── Players/
+│ ├── Profile/
+│ ├── Shared/
+│ ├── Standings/
+│ └── Tournaments/
+└── Assets/
+
+yaml
+Copy code
+
+---
+
+## 📌 Roadmap
+
+- [ ] Improve UI/UX polish  
+- [ ] Add push notifications  
+- [ ] Backend integration for live data  
+- [ ] Expand media sharing features  
+
+---
+
+## 🤝 Contributing
+This project is currently in progress, but contributions and feedback are welcome!  
+
+---
+
+## 📄 License
+This project is open-source under the [MIT License](LICENSE).  
+
+---
+
+## 👤 Author
+**Brandon Kassab**  
+[GitHub Profile](https://github.com/BrandonKassab)

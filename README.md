@@ -1,6 +1,6 @@
 # CABA App 🏀📱
 
-An iOS application built in SwiftUI for managing **CABA (Central Amateur Basketball Association)** player profiles, tournaments, standings, and media highlights.  
+An iOS application built in SwiftUI for managing **CABA (Chaldean Assyrian Basketball Association)** player profiles, tournaments, standings, and media highlights.  
 
 ⚠️ **Note:** This app is still in active development. Features and design may change as the project evolves.
 
